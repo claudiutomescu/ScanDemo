@@ -1,0 +1,17 @@
+/Users/ctomescu/projects/ScanDemo/ScanDemo/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/Xamarin.Forms.Core.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/ScanDemo.dll.mdb
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/ScanDemo.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/obj/Debug/ScanDemo.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/obj/Debug/ScanDemo.dll.mdb
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/mscorlib.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/System.Core.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/System.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/System.Linq.Queryable.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/System.Diagnostics.Tools.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/System.Net.Primitives.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/System.Net.Requests.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/System.Net.NetworkInformation.dll
+/Users/ctomescu/projects/ScanDemo/ScanDemo/bin/Debug/System.Text.RegularExpressions.dll
